@@ -1,8 +1,7 @@
 # My SOC Analyst Portfolio 🛡️💻
 
 ## About Me
-Hello, I’m **Morakinyo**, an aspiring **SOC Analyst** passionate about **cybersecurity defense**. I specialize in **SIEM tools**, **log analysis**, and **incident response**. My goal is to continuously improve my skills to detect, analyze, and respond to security threats.  
-📍 *Based in [Your Location]*
+Hello, I’m **Morakinyo**, an aspiring **SOC Analyst** passionate about **cybersecurity defense**. I specialize in **SIEM tools**, **log analysis**, and **incident response**. My goal is to continuously improve my skills to detect, analyze, and respond to security threats.
 
 ---
 
