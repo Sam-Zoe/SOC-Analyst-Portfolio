@@ -9,7 +9,7 @@ Hello, I’m **Morakinyo**, an aspiring **SOC Analyst** passionate about **cyber
 - 🛠️ **SIEM Platforms**: Splunk, Wazuh, Elastic Stack  
 - 💻 **Security Tools**: Wireshark, Zeek, VirusTotal  
 - 🐧 **Operating Systems**: Linux (Ubuntu, Kali), Windows  
-- 💻 **Scripting**: Bash, Python (beginner)  
+- 💻 **Scripting**: Bash, Python  
 - 🧠 **Threat Intelligence**: MITRE ATT&CK  
 - 📊 **Soft Skills**: Analytical thinking, teamwork, documentation
 
@@ -42,8 +42,8 @@ I’m continuously improving my skills through certifications:
 - **Cisco** – Introduction to Cybersecurity  
 - **Cisco** – Linux Unhatched  
 - **SoloLearn** – Python Basics  
-- **TryHackMe** – SOC Level 1 (In Progress)  
-- **LetsDefend** – Blue Team Certificate (Planned)
+- **TryHackMe** – SOC Level 1 
+- **LetsDefend** – Blue Team Certificate
 
 ---
 
